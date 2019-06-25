@@ -41,14 +41,9 @@ disqusShortname = "yourdiscussshortname"
     url = "https://github.com/dayofgray"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-gitlab fa-2x"
+    icon = "fab fa-linkedin"
     weight = 2
     url = "https://www.linkedin.com/in/graysonberger/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
